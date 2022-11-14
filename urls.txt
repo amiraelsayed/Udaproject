@@ -1,0 +1,6 @@
+- GitHub repository : https://github.com/amiraelsayed/Udaproject
+- S3 Bucket : 
+- CloudFront distribution :
+- deployed application back-end in EC2 :
+- Prometheus Server :
+- SCREENSHOT01 : 
