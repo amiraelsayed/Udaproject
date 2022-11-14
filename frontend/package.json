@@ -1,8 +1,8 @@
 {
   "name": "react-native-template-redux-typescript",
-  "version": "3.4.0",
+  "version": "1.0.0",
   "private": true,
-  "description": "A frontend boilerplate with React, Redux and Typescript",
+  "description": "A frontend boilerplate with React, Redux and Tsypescript",
   "main": "index.js",
   "scripts": {
     "test": "jest",
