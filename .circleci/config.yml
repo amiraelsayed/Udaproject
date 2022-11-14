@@ -50,7 +50,6 @@ jobs:
             npm audit fix --force
             npm audit --audit-level=critical
             npm run build
-            exit 1
       - save_cache:
           paths: [frontend/node_modules]
           key: frontend-build
@@ -71,7 +70,6 @@ jobs:
              npm audit fix --force
              npm audit --audit-level=critical
              npm run build
-             exit 1
       - save_cache:
           paths: [backend/node_modules]
           key: backend-build
