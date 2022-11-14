@@ -1,5 +1,5 @@
 {
-  "name": "react-native-template-redux-typescript",
+  "name": "typescript-react-redux-boilerplate",
   "version": "1.0.0",
   "private": true,
   "description": "A frontend boilerplate with React, Redux and Tsypescript",
