@@ -48,6 +48,7 @@ jobs:
             npm install
             npm audit fix --force
             npm audit fix --force
+            npm audit --audit-level=critical
             npm run build
             exit 1
       - save_cache:
@@ -68,6 +69,7 @@ jobs:
              npm install
              npm audit fix --force
              npm audit fix --force
+             npm audit --audit-level=critical
              npm run build
              exit 1
       - save_cache:
